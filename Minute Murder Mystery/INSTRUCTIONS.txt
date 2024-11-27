@@ -1,0 +1,22 @@
+Oh no! Restaurant tycoon, beloved father, and devoted husband Naseem Deceased has died! No one ever saw it coming.
+It's up to you, detective, to figure out who did it. Time is limited though. We've got dozens of other cases to cover before the end of the work day, so wrap this up quickly, yeah? 
+
+GOAL: You have 60 seconds to talk to as many suspects as possible. At the end of the 60 seconds, you'll be able to guess who you think committed the crime. Try not to get it wrong.
+
+MOVE: 
+S and W (Vertical Axis)
+
+ROTATE/TURN:
+A and D (Horizontal Axis)
+
+SPEAK TO SUSPECTS:
+Q (Interrogate Axis)
+
+PROGRESS DILOGUE BOXES:
+Click "next" button w/mouse
+
+NOTE 1: This game was developed without the use of a gamepad or controller. If you intend to play it with one, I am not sure what every control will map best to.
+
+NOTE 2: The quit buttons ("Actually, I Quit" and "Time to Retire") will not work within the unity editor. You would have to download and install the game for them to function.
+
+NOTE 3: The very short human is a dog. I did not have a dog asset lol.
