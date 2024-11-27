@@ -1,0 +1,27 @@
+﻿INSTRUCTIONS
+
+
+GOAL: Your goal is to put out all of the lava blocks on the floor. There are five sections in total. To move forward, you'll need to clear each section first.
+
+
+LIVES: You have 3 lives (or 4? I don't know how to count). Point being, you can touch the lava up to three times without dying. So I guess that's technically 4 lives
+
+
+LAVA: THE FLOOR IS LAVA! DON'T TOUCH IT! Touching the lava will remove a life and cause the player to auto jump. 
+
+
+MOVEMENT:
+Move horizontally with "A" and "D" or the left and right arrow keys. The gave uses the horizontal axis in case you want to format it for gamepad.
+
+
+JUMP / WALL JUMP / CLIMB: 
+Jump and wall jump with the spacebar. If you'd like to format it for gamepad, the project setting button is listed as "Jump".
+Climb underneath surfaces by repeatedly pressing the jump button.
+
+
+GRAB BUCKET:
+Hold "Q" to grab the bucket. Once you've grabbed it, you can release the button and it will follow you. For gamepad, this is listed as "Fire1"
+
+
+LET GO OF BUCKET:
+Press "E" to let go of the bucket. On gamepad, this is listed as "Fire2".
